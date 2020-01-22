@@ -19,7 +19,7 @@ html {
 body {
     font-size: 20px;
     color: rgba(0, 0, 0, .8);
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: "Lucida Console", Monaco, monospace;
     line-height: 1.8;
     margin: auto;
     max-width: 700px;
@@ -238,4 +238,9 @@ a:target, ol#footnotes li:target, sup a:target {
 a:target {
     border: 0;
     outline: 0;
+}
+
+img {
+    max-width:50%;
+    height:auto;
 }
