@@ -51,6 +51,14 @@ body{
 
 }
 
+a:link {
+  color: midnightblue;
+}
+
+a:visited {
+  color: cadetblue;
+}
+
 f1f0ee
 
 @media (min-width:992px)
