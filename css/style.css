@@ -90,8 +90,6 @@ h6 {
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
     margin: 0;
 }
-img {
-    max-width: 100%;
 }
 p {
     margin: 0 0 1.5em;
@@ -100,11 +98,11 @@ a:focus, a:hover {
     color: #000;
 }
 a {
-    color: #999;
+    color: cadetblue;
     -webkit-transition: color 0.2s;
     -o-transition: color 0.2s;
     transition: color 0.2s;
-    text-decoration: underline;
+    text-decoration: none;
 }
 blockquote {
     margin: 1.5em;
